@@ -47,7 +47,7 @@ CREATE TABLE `admins` (
 --
 
 INSERT INTO `admins` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `phone`, `address`, `status`, `type`, `created_at`, `updated_at`) VALUES
-(1, 'nam', 'nam@123', '2025-11-18 18:39:11', '123', NULL, 'ip', 'tuyen', 'Inactive', 'Staff', NULL, NULL);
+(1, 'nam', 'nam@123', '2025-11-18 18:39:11', '123', NULL, 'ip', 'tuyen', 'Active', 'Admin', NULL, NULL);
 
 -- --------------------------------------------------------
 
